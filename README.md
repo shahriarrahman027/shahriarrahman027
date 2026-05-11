@@ -52,9 +52,11 @@
 <div align="center">
 
 ## 🚀 Projects
-- Guessing Game (Python)
-- Movie Rating System
-- Python Mini Projects
+
+| Project | Technologies | Stats |
+|--|--|--|
+| [Guessing Game](https://github.com/shahriarrahman027/guessing-game) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) | ![Stars](https://img.shields.io/github/stars/shahriarrahman027/guessing-game?style=flat-square) |
+| [Movie Rating System](https://github.com/shahriarrahman027/movie-rating-system) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) | ![Stars](https://img.shields.io/github/stars/shahriarrahman027/movie-rating-system?style=flat-square) |
 
 </div>
 
