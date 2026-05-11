@@ -1,7 +1,17 @@
+# Hi 👋 I'm Shahriar Rahman
+
 <p align="center">
 <a href="https://github.com/shahriarrahman027">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=75EBD3&center=true&vCenter=true&width=500&lines=Shahriar+Rahman;CSE+Undergraduate;Python+Learner;AI+%2F+ML+%2F+NLP+Explorer" alt="Typing SVG" />
 </a>
+
+
+🎓 CSE Undergraduate Student  
+🤖 Learning AI / ML / NLP  
+🐍 Python Developer  
+🎬 Movie & Storytelling Enthusiast  
+📚 Currently learning NumPy, Pandas, and Machine Learning
+
 
 <br/><br/>
 
