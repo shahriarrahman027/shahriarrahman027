@@ -1,5 +1,7 @@
 # Hi 👋 I'm Shahriar Rahman
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Shahriar+Rahman;Future+AI+Engineer;NLP+Researcher)
+
 🎓 CSE Undergraduate Student  
 🤖 Learning AI / ML / NLP  
 🐍 Python Developer  
