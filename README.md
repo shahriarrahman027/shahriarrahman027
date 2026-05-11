@@ -36,6 +36,8 @@
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400" />
+
 ## 📊 GitHub Stats
 
 <img src="https://ghstats.dev/api/card?username=shahriarrahman027" />
