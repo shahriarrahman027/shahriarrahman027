@@ -53,10 +53,11 @@
 
 ## 🚀 Projects
 
-| Project | Technologies | Stats |
+| Project | Technologies | Description |
 |--|--|--|
-| [Guessing Game](https://github.com/shahriarrahman027/guessing-game) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) | ![Stars](https://img.shields.io/github/stars/shahriarrahman027/guessing-game?style=flat-square) |
-| [Movie Rating System](https://github.com/shahriarrahman027/movie-rating-system) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) | ![Stars](https://img.shields.io/github/stars/shahriarrahman027/movie-rating-system?style=flat-square) |
+| [Event Seating Allocator](https://github.com/shahriarrahman027/Event-Seating-Allocator) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) | Simple system to allocate seats for events using Python logic |
+| [First Python Project](https://github.com/shahriarrahman027/first_python-project) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) | Beginner-level Python practice project |
+| [Python Mini Projects](https://github.com/shahriarrahman027/python-mini-projects) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) | Collection of small Python practice projects |
 
 </div>
 
