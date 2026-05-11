@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<a href="mailto:shahriarrahman1101@gmail.com">
+<a href="mailto:shahriarrahman219@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="[https://www.linkedin.com](https://www.linkedin.com/in/md-shahriar-rahman-25a421246/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
 
