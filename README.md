@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Shahriar Rahman
 
-<!--
-**shahriarrahman027/shahriarrahman027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergraduate Student  
+🤖 Learning AI / ML / NLP  
+🐍 Python Developer  
+🎬 Movie & Storytelling Enthusiast  
+📚 Currently learning NumPy, Pandas, and Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Guessing Game (Python)
+- Movie Rating System
+- Python Mini Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- GitHub: https://github.com/shahriarrahman027
