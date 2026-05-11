@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
 </a>
 
-<a href="www.linkedin.com/in/md-shahriar-rahman-25a421246">
+<a href="https://www.linkedin.com/in/md-shahriar-rahman-25a421246">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
 
