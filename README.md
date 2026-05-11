@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 
 ## 📊 GitHub Stats
 
