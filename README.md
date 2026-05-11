@@ -38,7 +38,11 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 
 -------- 
-<img width="45%" src="src/files/profile_3.gif" alt="Signature.gif">
+
+<div align="center">
+    <img width="45%" src="src/files/profile_3.gif" alt="Signature.gif">
+</div>
+
 ## 📊 GitHub Stats
 
 <img src="https://ghstats.dev/api/card?username=shahriarrahman027" />
