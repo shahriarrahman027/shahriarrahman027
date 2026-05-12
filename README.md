@@ -40,14 +40,8 @@
 <div align="center">
     <img width="45%" src="src/files/profile_3.gif" alt="Signature.gif">
 </div>
-## 🏆 GitHub Trophies
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahriarrahman027&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
