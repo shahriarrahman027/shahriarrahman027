@@ -5,7 +5,6 @@
 <a href="https://github.com/shahriarrahman027">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=75EBD3&center=true&vCenter=true&width=500&lines=Shahriar+Rahman;CSE+Undergraduate;Python+Learner;AI+%2F+ML+%2F+NLP+Explorer" />
 </a>
-
 <br/>
 
 🎓 CSE Undergraduate Student  
@@ -15,7 +14,6 @@
 📚 Currently learning NumPy, Pandas, and Machine Learning  
 
 <br/>
-
 <a href="mailto:shahriarrahman219@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
@@ -42,11 +40,19 @@
 <div align="center">
     <img width="45%" src="src/files/profile_3.gif" alt="Signature.gif">
 </div>
+## 🏆 GitHub Trophies
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahriarrahman027&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📊 GitHub Stats
 
