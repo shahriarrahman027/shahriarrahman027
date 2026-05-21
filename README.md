@@ -11,7 +11,7 @@
 🤖 Learning AI / ML / NLP  
 🐍 Python Developer  
 🎬 Movie & Storytelling Enthusiast  
-📚 Currently Machine Learning  
+📚 Currently learning Machine Learning  
 
 <br/>
 <a href="mailto:shahriarrahman219@gmail.com">
