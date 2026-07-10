@@ -63,8 +63,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shahriarrahman027&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shahriarrahman027&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarrahman027&theme=tokyonight" />
