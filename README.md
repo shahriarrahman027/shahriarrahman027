@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://ghstats.dev/api/card?username=shahriarrahman027" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriarrahman027&show_icons=true&theme=tokyonight)
 
 <br/>
 
