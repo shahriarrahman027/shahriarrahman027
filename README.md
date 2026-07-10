@@ -65,6 +65,10 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shahriarrahman027&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
 <br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=shahriarrahman027&theme=tokyonight)
+<br/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahriarrahman027&layout=compact&theme=tokyonight)
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarrahman027&theme=tokyonight" />
 
